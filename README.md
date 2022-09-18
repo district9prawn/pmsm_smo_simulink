@@ -11,5 +11,6 @@ The waveforms below are of the SMO tracking with a fairly significant 2x Rs and 
 
 ![alt text](https://raw.githubusercontent.com/district9prawn/pmsm_smo_simulink/main/smo-block.png)
 ![alt text](https://raw.githubusercontent.com/district9prawn/pmsm_smo_simulink/main/phase-error.png)
+![alt text](https://github.com/district9prawn/pmsm_smo_simulink/blob/main/Eab-estimate.png)
 ![alt text](https://github.com/district9prawn/pmsm_smo_simulink/blob/main/Iab-estimate.png)
 
