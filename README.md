@@ -7,6 +7,7 @@ There is a super twisting algorithm switching function block in the SMO, althoug
 Increasing the sigmoid exponent variable sigmoid_a will make the function more like a signum. 
 Simply run the motor parameter script to initialize variables and run the Simulink simulation.
 
+![alt text](https://raw.githubusercontent.com/district9prawn/pmsm_smo_simulink/main/smo-block.png)
 ![alt text](https://raw.githubusercontent.com/district9prawn/pmsm_smo_simulink/main/phase-error.png)
 ![alt text](https://github.com/district9prawn/pmsm_smo_simulink/blob/main/Iab-estimate.png)
-![alt text](https://raw.githubusercontent.com/district9prawn/pmsm_smo_simulink/main/smo-block.png)
+
