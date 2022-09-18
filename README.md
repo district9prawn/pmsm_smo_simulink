@@ -5,7 +5,8 @@ Note: This simulation is not built on the SMO Observer included in the Motor Con
 This leaves the user free to experiment with the SMO loop and to implement other variations of SMO. 
 There is a super twisting algorithm switching function block in the SMO, although I have not read much on the theory and it only partially works. 
 Increasing the sigmoid exponent variable sigmoid_a will make the function more like a signum. 
-Simply run the motor parameter script to initialize variables and run the Simulink simulation. 
+Simply run the motor parameter script to initialize variables and run the Simulink simulation.
 
-
-
+![alt text](https://raw.githubusercontent.com/district9prawn/pmsm_smo_simulink/main/phase-error.png)
+![alt text](https://github.com/district9prawn/pmsm_smo_simulink/blob/main/Iab-estimate.png)
+![alt text](https://raw.githubusercontent.com/district9prawn/pmsm_smo_simulink/main/smo-block.png)
